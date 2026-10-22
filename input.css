@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@utility section-container {
+  @apply px-8 md:px-12 max-w-7xl mx-auto;
+}
+
+@theme {
+  --breakpoint-media524: 524px;
+}
